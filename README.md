@@ -19,15 +19,19 @@ WellSense is an IoT-based health monitoring system that measures vital signs inc
 
 ### Mobile Application
 
-![App Login Screen](Assets/APP_Login.png)
-![Patient Info Screen](Assets/patient_info_screen.png)
-![App Main Screen](Assets/APP_Screen1.png)
-![App Graph Screen](Assets/APP_Graph.png)
+<div align="center">
+  <img src="Assets/APP_Login.png" width="250" alt="App Login Screen">
+  <img src="Assets/patient_info_screen.png" width="250" alt="Patient Info Screen">
+  <img src="Assets/APP_Screen1.png" width="250" alt="App Main Screen">
+  <img src="Assets/APP_Graph.png" width="250" alt="App Graph Screen">
+</div>
 
 ### Hardware Implementation
 
-![Hardware Implementation](Assets/Hardware_Real.jpeg)
-![Wiring Diagram](Assets/wiring.png)
+<div align="center">
+  <img src="Assets/Hardware_Real.jpeg" width="400" alt="Hardware Implementation">
+  <img src="Assets/wiring.png" width="400" alt="Wiring Diagram">
+</div>
 
 ## 🛠 Tech Stack
 

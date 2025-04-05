@@ -11,7 +11,9 @@
 
 ## Wiring Diagram
 
-![Wiring Diagram](../Assets/wiring.png)
+<div align="center">
+  <img src="../Assets/wiring.png" width="500" alt="Wiring Diagram">
+</div>
 
 ## Connections
 
