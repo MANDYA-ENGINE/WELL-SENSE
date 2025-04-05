@@ -1,22 +1,6 @@
 {
   "rules": {
-    "sensor": {
-      ".read": "auth != null",
-      ".write": "auth != null",
-      "livedata": {
-        ".read": true,
-        ".write": "auth != null"
-      },
-      "status": {
-        ".read": true,
-        ".write": "auth != null"
-      }
-    },
-    "users": {
-      "$uid": {
-        ".read": "$uid === auth.uid",
-        ".write": "$uid === auth.uid"
-      }
-    }
+    ".read": true,
+    ".write": true
   }
-} 
+}
